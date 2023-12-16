@@ -1,0 +1,32 @@
+    1  exit
+    2  mkdir GBTestWork
+    3  cd GBTestWork
+    4  cd root
+    5  cd /
+    6  cd Home
+    7  exit
+    8  cat > Pets.txt
+    9  cat > PackAnimals.txt
+   10  cat Pets.txt PackAnimals.txt > HumanFriends.txt
+   11  cat HumanFriends.txt
+   12  mkdir GBTestwork
+   13  mv HumanFriens.txt GBTestwork/
+   14  mv HumanFriends.txt GBTestwork/
+   15  ls
+   16  cd GBTestwork
+   17  ls
+   18  cd ..
+   19  sudo apt update
+   20  sudo apt install mysql-server -y
+   21  exit
+   22  Kamaz_64
+   23  wget https://dev.mysql.com/downloads/repo/apt/mysql-apt-config_0.8.29-1_all.deb
+   24  wget https://dev.mysql.com/downloads/repo/apt/
+   25  sudo dpkg -i mysql-apt-config_0.8.29-1_all.deb
+   26  wget https://dev.mysql.com/get/mysql-apt-config_0.8.29-1_all.deb
+   27  ls
+   28  sudo dpkg -i mysql-apt-config_0.8.29-1_all.deb
+   29  systemctl status mysql
+   30  sudo dpkg -r mysql-apt-config
+   31  sudo apt update
+   32  history > command_history.txt

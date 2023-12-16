@@ -1,0 +1,9 @@
+ID	Name	Type	Date of Birth	Commands
+1	Tom	Cat	2020-11-30	Meow, Purr, Scratch
+2	Bobik	Dog	2021-01-15	Sit, Down, Fetch, Bark, Paw
+3	Polly	Bird	2015-04-25	Fly, Speak
+4	Rodney	Hamster	2023-05-16	Roll, Hide
+ID	Name	Type	Date of Birth	Commands
+1	Ia	Donkey	2018-06-30	Stay, Walk, Kick
+2	Jack	Horse	2019-10-10	Trot, Canter, Gallop, Jump
+3	Ali	Camel	2013-09-18	Stay, Walk, Spit, Carry load
